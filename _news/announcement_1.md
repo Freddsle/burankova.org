@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-11-03
 inline: true
 ---
 
-A simple inline announcement.
+Hi! :sparkles: :smile: 
+Welcome to the page. Here you can find my CV, list of publication anf links to my GitHub!
+
