@@ -5,5 +5,5 @@ inline: true
 ---
 
 Hi! :sparkles: :smile: 
-Welcome to the page. Here you can find my CV, list of publication anf links to my GitHub!
+Welcome to the page. Here you can find my CV, my list of publication and links to my GitHub!
 
